@@ -1,6 +1,6 @@
 # Kanban
 
-Visite meu site:
+Visite meu site: https://marinherrera.github.io/Kanban/
 
 ## Sobre o projeto
 
